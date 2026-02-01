@@ -291,7 +291,7 @@ section section {
 #introdifie {
   display: grid;
   justify-items: center;
-  grid-template: "tools picture" "tools picture" "tools picture" "tools picture" 1fr/0.3fr 0.7fr;
+  grid-template: "tools picture" "tools picture" "tools picture" "tools picture" 1fr/0.4fr 0.6fr;
   gap: 10px;
   row-gap: 30px;
 }
